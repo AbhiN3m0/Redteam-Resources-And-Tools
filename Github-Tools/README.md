@@ -21,7 +21,8 @@ A curated list of red teaming and Pentesting tools from GitHub. Updated regularl
 
 1. **[SmuggleFuzz](https://github.com/alyssadev/SmuggleFuzz)**  
    A configurable and rapid HTTP downgrade smuggling scanner. Customizable gadget lists help discover lesser-known smuggling vulnerabilities.
-2. **[Holehe OSINT - Email to Registered Accounts](https://github.com/megadose/holehe)**
-
+2. **[Holehe](https://github.com/megadose/holehe)** – OSINT tool to check which sites an email address is registered on.
+3. **[Monkey365](https://github.com/silverhack/monkey365)** – Open-source tool for auditing Microsoft 365, Azure, and Entra ID security configurations with minimal setup.
+4. 
 
 📝 **Note:** All tools are credited to their respective authors. This list is intended for educational and ethical use only.
