@@ -15,3 +15,13 @@ Each tool may include:
 
 📌 Please credit the original authors when adding new tools.
 
+#  🔗 GitHub Red Team Tools:
+
+A curated list of red teaming and Pentesting tools from GitHub. Updated regularly.
+
+1. **[SmuggleFuzz](https://github.com/alyssadev/SmuggleFuzz)**  
+   A configurable and rapid HTTP downgrade smuggling scanner. Customizable gadget lists help discover lesser-known smuggling vulnerabilities.
+2. 
+
+
+📝 **Note:** All tools are credited to their respective authors. This list is intended for educational and ethical use only.
